@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/anime catgirl.jpg</file>
+        <file>img/catgirl.jpg</file>
+        <file>img/cool stasyan.jpg</file>
+    </qresource>
+</RCC>
